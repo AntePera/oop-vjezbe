@@ -15,4 +15,4 @@ int main()
 	std::cout << std::setprecision(7) << std::setw(20) << std::setfill('0'
 	);
 	std::cout << pi << std::endl;
-}
+}
