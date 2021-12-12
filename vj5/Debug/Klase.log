@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Visual studio\Git\klasee bralee\Klase\Source.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+D:\Visual studio\Git\klasee bralee\Klase\Source.cpp(25,16): warning C4018: '<': signed/unsigned mismatch
+D:\Visual studio\Git\klasee bralee\Klase\Source.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+  Klase.vcxproj -> D:\Visual studio\Git\klasee bralee\Klase\Debug\Klase.exe
