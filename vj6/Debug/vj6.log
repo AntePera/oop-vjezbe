@@ -1,0 +1,6 @@
+﻿  implement.cpp
+D:\Visual studio\Git\vj6\vj6\implement.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual studio\Git\vj6\vj6\implement.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual studio\Git\vj6\vj6\implement.cpp(77,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual studio\Git\vj6\vj6\implement.cpp(110,23): warning C4018: '<': signed/unsigned mismatch
+  vj6.vcxproj -> D:\Visual studio\Git\vj6\vj6\Debug\vj6.exe
