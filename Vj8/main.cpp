@@ -27,6 +27,5 @@ int main()
         cout << tm << endl;
     }
     
-    system("pause");
     return 0;
 }

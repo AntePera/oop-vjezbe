@@ -82,7 +82,6 @@ class timer
 			this->s = s + n;
 			return *this;
 		}
-		
 		friend bool operator<(const timer& a, const timer& b)
 		{
 			if (a.h < b.h)

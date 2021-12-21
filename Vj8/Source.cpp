@@ -1,5 +1,4 @@
 #include"Header.hpp"
-
 ostream& operator<< (ostream& os, timer& p)
 {
 	os << p.h << ":" << p.m << ":" << p.s;
