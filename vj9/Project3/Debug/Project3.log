@@ -1,0 +1,4 @@
+﻿  PQueue.c
+D:\Visual studio\Git\vj9\Project3\PQueue.c(30,11): warning C4098: 'popravi_prema_dnu': 'void' function returning a value
+D:\Visual studio\Git\vj9\Project3\PQueue.c(72,32): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+  Project3.vcxproj -> D:\Visual studio\Git\vj9\Project1\Debug\Project3.exe
